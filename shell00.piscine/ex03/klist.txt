@@ -1,0 +1,5 @@
+Credentials cache: API:5196
+        Principal: pgomez-a@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 26 08:02:32 2020  Nov 26 18:02:26 2020  krbtgt/42MADRID.COM@42MADRID.COM
