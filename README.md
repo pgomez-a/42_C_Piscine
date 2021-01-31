@@ -12,3 +12,4 @@ Four days later, the message saying it was inside reached my email box. What can
 ## The projects
 All the projects that I had to do during the Piscine are uploaded here. They could be useful if you want to start reading some code. You can use it to try to think
 what the program is going to do and then run it in your shell or terminal. But if you really want to progress like 42 candidates do, I recommend you jump into the Piscine. 
+<img width="631" alt="Skills obtained in 42 Piscine" src="https://user-images.githubusercontent.com/74931024/106393183-014f2200-63f6-11eb-9dd8-04666ef40bd5.png">
