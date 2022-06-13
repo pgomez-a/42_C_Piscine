@@ -1,7 +1,7 @@
 # 42_Piscine
 <img width="362" alt="My Piscine Timetable" align="right" src="https://user-images.githubusercontent.com/74931024/106393137-a9182000-63f5-11eb-9e0b-ed34ee5fccf7.png">
 
-**If you want to learn more about IT topics, visit my website:** [**IA Notes**](https://ia-notes.com/)
+**If you want to learn more about IT topics, [I invite you to join my Patreon channel](https://www.patreon.com/pgomeza?fan_landing=true) and visit my website:** [**IA Notes**](https://ia-notes.com/)
 
 If you don't know what 42 is, I recommend you first read my Github bio to understand what I'm going to show you. Nevertheless,
 If you know what it is, I would like to show you the projects that I had to do during my Piscine period.
